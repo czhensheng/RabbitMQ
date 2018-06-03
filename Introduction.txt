@@ -1,0 +1,13 @@
+生产者：producer，消息生产者，就是投递消息的程序
+
+消息代理：broker，简单来说就是消息队列服务器实体，这里简单理解为我们安装的RabbitMQ服务
+
+消费者：consumer，消息消费者，就是接受消息的程序
+
+CreateConnection 创建一个连接连接到broker
+CreateModel 创建一个channel 使用它来发送AMQP指令
+ExchangeDeclare 创建一个exchange 对消息进行路由
+QueueDeclare 创建一个queue 消息队列 这是一个装载消息的容器
+QueueBind 把exchange和queue按照路由规则绑定起来
+BasicPublish 往队列中发送一条消息
+BasicConsume 从队列中获取一条消息

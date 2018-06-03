@@ -1,0 +1,10 @@
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\bin\Debug\netcoreapp2.0\Receive.deps.json
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.json
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.dev.json
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\bin\Debug\netcoreapp2.0\Receive.dll
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\obj\Debug\netcoreapp2.0\Receive.csproj.CoreCompileInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfoInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfo.cs
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\bin\Debug\netcoreapp2.0\Receive.pdb
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\obj\Debug\netcoreapp2.0\Receive.dll
+D:\Code\Study\RabbitMq\RabbitMQ\Receive\obj\Debug\netcoreapp2.0\Receive.pdb

@@ -1,0 +1,11 @@
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\bin\Debug\netcoreapp2.0\TaskQueuesProducer.deps.json
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\bin\Debug\netcoreapp2.0\TaskQueuesProducer.runtimeconfig.json
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\bin\Debug\netcoreapp2.0\TaskQueuesProducer.runtimeconfig.dev.json
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\bin\Debug\netcoreapp2.0\TaskQueuesProducer.dll
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\obj\Debug\netcoreapp2.0\TaskQueuesProducer.csproj.CoreCompileInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\obj\Debug\netcoreapp2.0\TaskQueuesProducer.AssemblyInfoInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\obj\Debug\netcoreapp2.0\TaskQueuesProducer.AssemblyInfo.cs
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\bin\Debug\netcoreapp2.0\TaskQueuesProducer.pdb
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\obj\Debug\netcoreapp2.0\TaskQueuesProducer.csprojAssemblyReference.cache
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\obj\Debug\netcoreapp2.0\TaskQueuesProducer.dll
+D:\Code\Study\RabbitMq\RabbitMQ\TaskQueuesProducer\obj\Debug\netcoreapp2.0\TaskQueuesProducer.pdb

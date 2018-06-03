@@ -1,0 +1,10 @@
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\bin\Debug\netcoreapp2.0\RabbitConsumer.deps.json
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\bin\Debug\netcoreapp2.0\RabbitConsumer.runtimeconfig.json
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\bin\Debug\netcoreapp2.0\RabbitConsumer.runtimeconfig.dev.json
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\bin\Debug\netcoreapp2.0\RabbitConsumer.dll
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\obj\Debug\netcoreapp2.0\RabbitConsumer.csproj.CoreCompileInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\obj\Debug\netcoreapp2.0\RabbitConsumer.AssemblyInfoInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\obj\Debug\netcoreapp2.0\RabbitConsumer.AssemblyInfo.cs
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\bin\Debug\netcoreapp2.0\RabbitConsumer.pdb
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\obj\Debug\netcoreapp2.0\RabbitConsumer.dll
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitConsumer\obj\Debug\netcoreapp2.0\RabbitConsumer.pdb

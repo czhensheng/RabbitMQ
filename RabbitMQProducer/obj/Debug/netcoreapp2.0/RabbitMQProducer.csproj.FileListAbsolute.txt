@@ -1,0 +1,11 @@
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\bin\Debug\netcoreapp2.0\RabbitMQProducer.deps.json
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\bin\Debug\netcoreapp2.0\RabbitMQProducer.runtimeconfig.json
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\bin\Debug\netcoreapp2.0\RabbitMQProducer.runtimeconfig.dev.json
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\bin\Debug\netcoreapp2.0\RabbitMQProducer.dll
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\obj\Debug\netcoreapp2.0\RabbitMQProducer.csproj.CoreCompileInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\obj\Debug\netcoreapp2.0\RabbitMQProducer.AssemblyInfoInputs.cache
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\obj\Debug\netcoreapp2.0\RabbitMQProducer.AssemblyInfo.cs
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\bin\Debug\netcoreapp2.0\RabbitMQProducer.pdb
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\obj\Debug\netcoreapp2.0\RabbitMQProducer.csprojAssemblyReference.cache
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\obj\Debug\netcoreapp2.0\RabbitMQProducer.dll
+D:\Code\Study\RabbitMq\RabbitMQ\RabbitMQProducer\obj\Debug\netcoreapp2.0\RabbitMQProducer.pdb

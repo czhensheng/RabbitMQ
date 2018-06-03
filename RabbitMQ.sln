@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQProducer", "RabbitMQProducer\RabbitMQProducer.csproj", "{F1BCBEC1-CF78-4891-B1E0-5654999F5359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumer", "RabbitConsumer\RabbitConsumer.csproj", "{F010EBF5-F2C5-491F-ADCE-181AB65E0A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send", "Send\Send.csproj", "{3B9E9C86-0341-4962-999D-56949A3FA62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receive", "Receive\Receive.csproj", "{DA0811B3-2612-4EAB-A938-91912AF228DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EAC18E58-A18E-4600-B07E-5DEE98548D7E}"
+	ProjectSection(SolutionItems) = preProject
+		Introduction.txt = Introduction.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskQueuesProducer", "TaskQueuesProducer\TaskQueuesProducer.csproj", "{5A938087-57E8-4EA0-8CE2-C32A0DF774B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskQueuesConsumer", "TaskQueuesConsumer\TaskQueuesConsumer.csproj", "{1F434863-B94C-4F55-A65D-1AC3D95F4BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BCBEC1-CF78-4891-B1E0-5654999F5359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BCBEC1-CF78-4891-B1E0-5654999F5359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BCBEC1-CF78-4891-B1E0-5654999F5359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BCBEC1-CF78-4891-B1E0-5654999F5359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F010EBF5-F2C5-491F-ADCE-181AB65E0A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F010EBF5-F2C5-491F-ADCE-181AB65E0A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F010EBF5-F2C5-491F-ADCE-181AB65E0A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F010EBF5-F2C5-491F-ADCE-181AB65E0A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9E9C86-0341-4962-999D-56949A3FA62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9E9C86-0341-4962-999D-56949A3FA62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9E9C86-0341-4962-999D-56949A3FA62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9E9C86-0341-4962-999D-56949A3FA62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0811B3-2612-4EAB-A938-91912AF228DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0811B3-2612-4EAB-A938-91912AF228DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0811B3-2612-4EAB-A938-91912AF228DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0811B3-2612-4EAB-A938-91912AF228DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A938087-57E8-4EA0-8CE2-C32A0DF774B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A938087-57E8-4EA0-8CE2-C32A0DF774B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A938087-57E8-4EA0-8CE2-C32A0DF774B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A938087-57E8-4EA0-8CE2-C32A0DF774B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F434863-B94C-4F55-A65D-1AC3D95F4BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F434863-B94C-4F55-A65D-1AC3D95F4BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F434863-B94C-4F55-A65D-1AC3D95F4BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F434863-B94C-4F55-A65D-1AC3D95F4BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876E84D1-3170-405E-BCCF-3EC775121145}
+	EndGlobalSection
+EndGlobal
